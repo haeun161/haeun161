@@ -18,8 +18,6 @@ Currently, I'm delving into **Generative AI (GA)**, **Large Language Models (LLM
 
 <br>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaeun161%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FFFEFE&title=hits&edge_flat=false"/></a>
-
 ### 🏅 Awards
 
 - **The 7th International Conference on Mobile Internet Security (Mobisec'23)**, Best Paper Award, 2023
@@ -36,6 +34,6 @@ Currently, I'm delving into **Generative AI (GA)**, **Large Language Models (LLM
 ### 🔗 Links
 
 [Hugging Face](https://huggingface.co/haeun161)  
-[Blog](https://haeun161.tistory.com/)
+[Blog: Tistory](https://haeun161.tistory.com/)
 
 </div>
