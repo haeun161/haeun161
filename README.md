@@ -33,7 +33,7 @@ Currently, I'm delving into **Generative AI (GA)**, **Large Language Models (LLM
 
 
 
-### 🏅 Awards
+# 🏅 Awards
 
 - **The 7th International Conference on Mobile Internet Security (Mobisec'23)**, Best Paper Award, 2023
 - **Industrial Security Paper Competition**, 동상(한국산업보안학회 회장상), 2023, Korean Association for Industrial Security (KAIS)
@@ -45,7 +45,7 @@ Currently, I'm delving into **Generative AI (GA)**, **Large Language Models (LLM
 - **Sejong Cyber University IT Department Idea Contest**, 동상, 2021
 - **Sungshin Women's University Software Contest**, 장려상, 2021
 
-### 🔗 Links
+# 🔗 Links
 
 - [Hugging Face](https://huggingface.co/haeun161)  
 - [Blog: Tistory](https://haeun161.tistory.com/)
