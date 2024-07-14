@@ -33,7 +33,7 @@ Currently, I'm delving into **Generative AI (GA)**, **Large Language Models (LLM
 
 ### 🔗 Links
 
-[Hugging Face](https://huggingface.co/haeun161)  
-[Blog: Tistory](https://haeun161.tistory.com/)
+- [Hugging Face](https://huggingface.co/haeun161)  
+- [Blog: Tistory](https://haeun161.tistory.com/)
 
 </div>
