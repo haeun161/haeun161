@@ -18,6 +18,21 @@ Currently, I'm delving into **Generative AI (GA)**, **Large Language Models (LLM
 
 <br>
 
+# 🛠️ Projects & Activities
+
+| **Project/Activity**                                       | **Description**                                                                                                                                        | **Role**                                         |
+|------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| **2024 ICT Hanium Mentoring Project**                      | Research on LLM Prompting/Finetuning, RAG & Development of Digital Health Care Platform                                                                                     | AI & Backend Developer                         |
+| **BDA Conference Member**                                  | Working on Data Preprocessing & Data Analysis as a study group                                                                                         | Member                                          |
+| **WISET Research Team Project**                            | Research on Lightweight and High-Efficiency EDR based on AI for Computer Science, Industrial IoT                                                       | Data collection, Validation, Manuscript prep    |
+| **K-Hackerthon11: Digital Health Care Platform Development**               | 치매 가디언즈 '치즈' 프로젝트                                                                                                                           | Project Manager, Frontend & Backend Developer   |
+| **Business Promotion on Wireless Smart Controller**        | Designed a Wireless connectivity service platform                                                                                                       | Representative, Technical Researcher            |
+| **2022 ICT Hanium Mentoring Project Program**              | Development of Gamification-based Historical UNITY Platform (App)                                                                                      | Team Leader, Frontend & Backend Developer       |
+| **AR-based School Tour Application Development**           | Developed an AR-based school tour application                                                                                                          | Team Leader, Frontend & Backend Developer       |
+| **COVID-19 Travel Website Development**                    | Developed a website for traveling during COVID-19                                                                                                       | Team Leader, Frontend & Backend Developer       |
+
+
+
 ### 🏅 Awards
 
 - **The 7th International Conference on Mobile Internet Security (Mobisec'23)**, Best Paper Award, 2023
