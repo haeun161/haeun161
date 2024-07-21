@@ -1,7 +1,7 @@
 # 🙋 WHO AM I?
 
 I'm passionate about **Computer Vision (CV)** and **Natural Language Processing (NLP)**. 
-Currently, I'm delving into **Generative AI (GA)**, **Large Language Models (LLM)**, **Parameter-Efficient Fine-Tuning (PEFT)**, and **Prompting**.
+Currently, I'm delving into **Generative AI (GA)**, **Large Language Models (LLM)** - **Parameter-Efficient Fine-Tuning (PEFT)**, and **Prompting**.
 
 
 # 📚 Tech STACKS
