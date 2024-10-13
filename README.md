@@ -51,5 +51,5 @@ Currently, I'm delving into **Generative AI (GA)**, **Large Language Models (LLM
 
 - [Hugging Face](https://huggingface.co/haeun161)  
 - [Blog: Tistory](https://haeun161.tistory.com/)
-
+- 작성한 논문 링크: https://button-breeze-d77.notion.site/s-Research-Papers-1128c3821d6b80f396f7fc7fd861828b?pvs=4 
 </div>
