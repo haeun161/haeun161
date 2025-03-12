@@ -9,12 +9,12 @@ I'm passionate about **Computer Vision (CV)** and **Natural Language Processing 
 Currently, I'm delving into **Generative AI (GA)**, **Large Language Models (LLM)** - **Parameter-Efficient Fine-Tuning (PEFT)**, and **Prompting**.
 
 ## 🔧 Internships
-- Undergraduate Researcher in 'Marine Hydrodynamics AI Lab', Sungshin Women's Univ.  `2025.01 ~ 2025.06`
+- `2025.01 ~ 2025.06` Undergraduate Researcher in 'Marine Hydrodynamics AI Lab', Sungshin Women's Univ.  
   - **Project**: Machine Learning for Seakeeping Control in Waves
   - **Commissioner**: Lloyd’s Register Foundation
   - **Research Topic**: Time-Series Forecasting using Statistical Methods and Neural Networks
 
-- Undergraduate Researcher in 'Convergence Security Engineering Lab', Sungshin Women's Univ.  `2022.11 ~ 2024.01`
+- `2022.11 ~ 2024.01` Undergraduate Researcher in 'Convergence Security Engineering Lab', Sungshin Women's Univ.
   - **Research Topic**: Artificial Intelligence and Information Protection Convergence
   - **Publications and Presentations**:
     - Submitted a paper on **Lightweight Federated Learning** (Mobisec, International Conference)
