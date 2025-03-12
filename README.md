@@ -26,10 +26,6 @@ Currently, I'm delving into **Generative AI (GA)**, **Large Language Models (LLM
 - Team Member of the Data Analytics in BOAZ Base Session, Big Data Alliance Club `2024.07 ~ 2024.01`
 - Team Member of BDA Conference `2024`
 
-
-# 🛠️ Projects
-## 📌 Projects
-
 ## 📌 Projects
 
 | **Status & Year** | **Project**                                                | **Category**                        | **Description**                                                                 | **Link** |
@@ -47,9 +43,6 @@ Currently, I'm delving into **Generative AI (GA)**, **Large Language Models (LLM
 | ![Status: Completed](https://img.shields.io/badge/Status-Completed-brightgreen) `2022` | **History Gamification App** | Development                         | Development of a gamified history learning platform using Unity                   | [Project Link](https://github.com/hanium22/hanium_project) |
 | ![Status: Completed](https://img.shields.io/badge/Status-Completed-brightgreen) `2022` | **School Tour Service using VR** | Development                         | VR-based interactive school tour application                                     | [Project Link](https://github.com/happySungMeow/sungMeow) |
 | ![Status: Completed](https://img.shields.io/badge/Status-Completed-brightgreen) `2021` | **Website for Traveling in COVID-19** | Development                         | Website development for safe traveling during the COVID-19 pandemic              | [Project Link](https://github.com/sungshin21/2021sw) |
-
-
-
 
 
 
