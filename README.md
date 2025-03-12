@@ -48,16 +48,16 @@ Currently, I'm delving into **Generative AI (GA)**, **Large Language Models (LLM
 
 
 # 🏅 Awards
-- **BOAZ, Big Data Club : Big Data Hackathon** , 대상(1st place), 2024
-- **The 7th International Conference on Mobile Internet Security (Mobisec'23)**, Best Paper Award, 2023
-- **Industrial Security Paper Competition**, 동상(한국산업보안학회 회장상), 2023, Korean Association for Industrial Security (KAIS)
-- **K-Hackathon 11**, 최우수상 (정보통신산업진흥원 원장상), 2023
-- **Sungshin Women's University Study Group**, 우수상, 2023
-- **ICT/SW Women's Entrepreneurship Competition**, 동상 (IT여성기업인회장상), 2023
-- **Hanium ICT Mentoring Competition**, 입상 (한국정보산업연합회 회장상), 2022
-- **Sungshin Women's University Software Contest**, 동상, 2022
-- **Sejong Cyber University IT Department Idea Contest**, 동상, 2021
-- **Sungshin Women's University Software Contest**, 장려상, 2021
+- `2024` **BOAZ, Big Data Club : Big Data Hackathon** , 대상(1st place)
+- `2023` **The 7th International Conference on Mobile Internet Security (Mobisec'23)**, Best Paper Award
+- `2023` **Industrial Security Paper Competition**, 동상(한국산업보안학회 회장상), Korean Association for Industrial Security (KAIS)
+- `2023` **K-Hackathon 11**, 최우수상 (정보통신산업진흥원 원장상)
+- `2023` **Sungshin Women's University Study Group**, 우수상
+- `2023` **ICT/SW Women's Entrepreneurship Competition**, 동상 (IT여성기업인회장상)
+- `2022` **Hanium ICT Mentoring Competition**, 입상 (한국정보산업연합회 회장상)
+- `2022` **Sungshin Women's University Software Contest**, 동상
+- `2021` **Sejong Cyber University IT Department Idea Contest**, 동상
+- `2021` **Sungshin Women's University Software Contest**, 장려상
 
 ## 📚 Tech STACKS
 
