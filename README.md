@@ -32,9 +32,10 @@ Currently, I'm delving into **Generative AI (GA)**, **Large Language Models (LLM
 |--------------------------------------------------|--------------------------------------------------|-----------------------------------------------------------------------------------------------------|-------------------------------|
 | **Ship Motion Time-Series Prediction Research**  `2024` | Time-series Prediction | Research on Machine Learning for Seakeeping Control in Waves                                    |    [Project Link](https://github.com/haeun161/time_series)                       |
 | **AI-Generated Image Detection Website Development and Research**  `2024` | AI Generated Image Detection | Development of an AI-powered website for detecting AI-generated images                         | [Project Link](https://github.com/haeun161/AI_Detector)     |
-| **Intrusion Detection Algorithm for In-Vehicle Networks**  `2024` | Intrusion Detection | Research and development of IDS for automotive cybersecurity                                  |                               |
-| **Digital Healthcare Application Development**  `2024` | Development, Research | Research on LLM Prompting/Finetuning, RAG & Development of Digital Healthcare Platform       |                               |
-| **2023 Graduate Women Engineering Research Team Support Program**  `2023` | Research | Research on Lightweight, High-Efficiency AI Models for Industrial IoT Environments          |                               |
+| **Intrusion Detection Algorithm for In-Vehicle Networks**  `2024` | Intrusion Detection | Research and development of IDS for automotive cybersecurity                                  | [Project Link](https://www.kaggle.com/competitions/boaz-day-2024)     |
+| **Digital Healthcare Application Development**  `2024` | Development, Research | Research on LLM Prompting/Finetuning, RAG & Development of Digital Healthcare Platform       | [Project Link](https://github.com/hanium22/hanium_project)   |
+| **Enhancing Network Intrusion Detection with GAN**  `2023` | Intrusion Detection | Research on models(SMOTE, GAN) for Data Augmentation         |  [Project Link](https://github.com/haeun161/Lightweight-Federated-Learning-based-Intrusion-Detection-for-the-Industrial-Internet-of-Things)                             |
+| **AI Models for Industrial IoT Environments**  `2023` | Research | Research on Lightweight, High-Efficiency AI Models for Industrial IoT Environments          |  [Project Link](https://github.com/haeun161/Lightweight-Federated-Learning-based-Intrusion-Detection-for-the-Industrial-Internet-of-Things)                             |
 | **Development of an Optimized Mobility Service Based on Traffic Congestion**  `2023` | Development | Development of an optimized mobility platform by analyzing real-time data from Seoul buses  |                               |
 | **Food Ordering Kiosk**  `2023` | Development | AI-based interactive food ordering kiosk using LLM and transfer learning                    |                               |
 | **Movie Review Sentiment Analysis Model**  `2023` | Development | AI-powered sentiment analysis model for movie reviews                                       |                               |
@@ -75,5 +76,5 @@ Currently, I'm delving into **Generative AI (GA)**, **Large Language Models (LLM
 
 - [Hugging Face](https://huggingface.co/haeun161)  
 - [Blog: Tistory](https://haeun161.tistory.com/)
-- 작성한 논문 링크: https://button-breeze-d77.notion.site/s-Research-Papers-1128c3821d6b80f396f7fc7fd861828b?pvs=4 
+- [Submitted Papers](https://button-breeze-d77.notion.site/s-Research-Papers-1128c3821d6b80f396f7fc7fd861828b?pvs=4) 
 </div>
