@@ -1,7 +1,7 @@
 ##### Last Update `2025.03.12` (working on)
 
 ## 🎓 Education
-- Sungshin Women's University `2021.03 ~ 2025.09`
+- `2021.03 ~ 2025.09` Sungshin Women's University 
   - [Main Major] Computer Engineering / [Double Major] School of AI Convergence, AI
 
 ## 👀 Interest
