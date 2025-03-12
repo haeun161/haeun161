@@ -19,7 +19,8 @@ Currently, I'm delving into **Generative AI (GA)**, **Large Language Models (LLM
   - **Publications and Presentations**:
     - Submitted a paper on **Lightweight Federated Learning** (Mobisec, International Conference)
     - Presented a paper on **EDR Automation using Generative AI (VAE)** (Mobisec, International Conference)
-    - Submitted a paper to a **KCI-indexed Journal**  
+    - Submitted a paper to a **KCI-indexed Journal**
+    - Published patent, "Smart control apparatus and method," Korea, Patent, No. 10-2024-00599425 
 
 ## ⚡ ExtraCurricular Activity
 - Team Member of the Data Analytics in BOAZ Base Session, Big Data Alliance Club `2024.07 ~ 2024.01`
@@ -27,19 +28,20 @@ Currently, I'm delving into **Generative AI (GA)**, **Large Language Models (LLM
 
 
 # 🛠️ Projects
-
-| **Project**                                       | **Description**                                                                                                             | **Role**                                         | **Code**                      |
-|------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-------------------------------|
-| **2024 ICT Hanium Mentoring Project**  `2024`              | Research on LLM Prompting/Finetuning, RAG & Development of Digital Health Care Platform                                     | AI & Backend Developer                           |                               |
-| **AI Mobility Platform Development**  `2024`        | Development of optimized mobility platform by analyzing real-time data from Seoul buses and subways                          | Team Leader, Developer                           |                               |
-| **BDA Conference Member**  `2024`                | Working on Data Preprocessing & Data Analysis (as a study group)                                                             | Member                                          |                               |
-| **Undergraduate Researcher**  `2022 – 2024`               | Studied & Worked at Convergence Security Engineering Lab. (CSE Lab)                                                         | Undergraduate Researcher (member)               |                               |
-| **WISET Research Team Project**  `2023`                    | Research on Lightweight and High-Efficiency EDR based on AI for Computer Science, Industrial IoT                             | Data collection, Validation, Manuscript prep     |                               |
-| **K-Hackerthon11: Digital Health Care Platform Development**  `2023 – 2024` | 치매 가디언즈 '치즈' 프로젝트                                                                                                  | Frontend & Backend Developer                     |  [GitHub](https://github.com/haeun161/cheese)                             |
-| **Business Promotion on Wireless Smart Controller** `2023`          | Designed Wireless Connectivity Service Platform                                                                           | Representative, Technical Researcher             |                               |
-| **2022 ICT Hanium Mentoring Project Program**  `2022`      | Development of Gamification-based Historical UNITY Platform (App)                                                           | Team Leader, Frontend & Backend Developer        |                               |
-| **AR-based School Tour Application Development**  `2022`  | Development of AR-based school tour application                                                                          | Team Leader, Frontend & Backend Developer        |                               |
-| **COVID-19 Travel Website Development**  `2021`            | Development of website for traveling during COVID-19                                                                      | Team Leader, Frontend & Backend Developer        |                               |
+| **Project**                                       | **Category**                                      | **Description**                                                                                         | **Link**                      |
+|--------------------------------------------------|--------------------------------------------------|-----------------------------------------------------------------------------------------------------|-------------------------------|
+| **Ship Motion Time-Series Prediction Research**  `2024` | Time-series Prediction | Research on Machine Learning for Seakeeping Control in Waves                                    |    [Project Link](https://github.com/haeun161/time_series)                       |
+| **AI-Generated Image Detection Website Development and Research**  `2024` | AI Generated Image Detection | Development of an AI-powered website for detecting AI-generated images                         | [Project Link](https://github.com/haeun161/AI_Detector)     |
+| **Intrusion Detection Algorithm for In-Vehicle Networks**  `2024` | Intrusion Detection | Research and development of IDS for automotive cybersecurity                                  |                               |
+| **Digital Healthcare Application Development**  `2024` | Development, Research | Research on LLM Prompting/Finetuning, RAG & Development of Digital Healthcare Platform       |                               |
+| **2023 Graduate Women Engineering Research Team Support Program**  `2023` | Research | Research on Lightweight, High-Efficiency AI Models for Industrial IoT Environments          |                               |
+| **Development of an Optimized Mobility Service Based on Traffic Congestion**  `2023` | Development | Development of an optimized mobility platform by analyzing real-time data from Seoul buses  |                               |
+| **Food Ordering Kiosk**  `2023` | Development | AI-based interactive food ordering kiosk using LLM and transfer learning                    |                               |
+| **Movie Review Sentiment Analysis Model**  `2023` | Development | AI-powered sentiment analysis model for movie reviews                                       |                               |
+| **Application for Dementia Patient Care and Caregivers**  `2023 – 2024` | Development | 치매 가디언즈 '치즈' 프로젝트                                                               |  [Project Link](https://github.com/haeun161/cheese) |
+| **Development of a History Gamification App**  `2022` | Development | Development of a gamified history learning platform using Unity                             |                               |
+| **School Tour Service using VR**  `2022` | Development | VR-based interactive school tour application                                              |                               |
+| **Website for Traveling in the COVID-19**  `2021` | Development | Website development for safe traveling during the COVID-19 pandemic                        |           [Project Link](https://github.com/sungshin21/2021sw)                    |
 
 
 
