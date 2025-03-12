@@ -64,12 +64,13 @@ Currently, I'm delving into **Generative AI (GA)**, **Large Language Models (LLM
 | **Category**                         | **Technologies**                                                                                                     |
 |--------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | **Programming Languages**            | Python, Java, C++, C, C#                                                                                            |
-| **Data Analysis**                    | Pandas, NumPy, Seaborn, Matplotlib                                                                                  |
+| **Data Science**                    | Pandas, NumPy, Seaborn, Matplotlib                                                                                  |
 | **Machine Learning & Modeling**      | Scikit-learn, Pytorch, TensorFlow, Keras, Hugging Face, Weights and Biases                                          |
 | **Databases**                        | MySQL, MongoDB                                                                                                      |
 | **Infra**                            | Google Cloud Platform (GCP), Amazon Web Services (AWS), Kubernetes, Docker, Jenkins                                 |
 | **Server, Client (Web/App Deployment)** | Java, Spring, JPA, Python, Flask, Django, Flutter, HTML, CSS, JavaScript, Node.js, Express.js             |
 | **Data Collection & Security**       | Dataiku, Genian(EDR Platform)                                                                                      |
+| **Collaboration Tools**              | Jira, Slack, Notion, Microsoft Teams                                                                                |
 
 <br>
 
