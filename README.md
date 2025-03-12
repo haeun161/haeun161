@@ -23,8 +23,8 @@ Currently, I'm delving into **Generative AI (GA)**, **Large Language Models (LLM
     - Published patent, "Smart control apparatus and method," Korea, Patent, No. 10-2024-00599425 
 
 ## ⚡ ExtraCurricular Activity
-- Team Member of the Data Analytics in BOAZ Base Session, Big Data Alliance Club `2024.07 ~ 2024.01`
-- Team Member of BDA Conference `2024`
+- `2024.07 ~ 2024.01`Team Member of the Data Analytics in BOAZ Base Session, Big Data Alliance Club 
+- `2024` Team Member of BDA Conference 
 
 ## 📌 Projects
 
