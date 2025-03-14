@@ -51,7 +51,7 @@ Currently, I'm delving into **Generative AI (GA)**, **Large Language Models (LLM
 | ![Status: Completed](https://img.shields.io/badge/Status-Completed-brightgreen) `2021` | **Website for Traveling in COVID-19** | Web Development                         | Website development for safe traveling during the COVID-19 pandemic              | [Project Link](https://github.com/sungshin21/2021sw) |
 
 
-
+- Links for ![Status: In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) would changed to public, after the project finishes.
 
 # 🏅 Awards
 - `2024` **BOAZ, Big Data Club : Big Data Hackathon** , 대상(1st place)
