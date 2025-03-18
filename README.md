@@ -48,7 +48,6 @@ Currently, I'm delving into **Generative AI (GA)**, **Large Language Models (LLM
 | ![Status: Completed](https://img.shields.io/badge/Status-Completed-brightgreen) `2023` | **Movie Review Sentiment Analysis Model** | LLM Fine-Tuning                      | Sentiment analysis on movie reviews by Fine-Tuning LLM(KT-Midm-7B)               | [Project Link](https://huggingface.co/haeun161/lora-midm-7b-nsmc) |
 | ![Status: Completed](https://img.shields.io/badge/Status-Completed-brightgreen) `2022` | **History Gamification App** | App Development                         | Development of a gamified history learning platform using Unity                   | [Project Link](https://github.com/hanium22/hanium_project) |
 | ![Status: Completed](https://img.shields.io/badge/Status-Completed-brightgreen) `2022` | **School Tour Service using VR** | App Development                         | VR-based interactive school tour application                                     | [Project Link](https://github.com/happySungMeow/sungMeow) |
-| ![Status: Completed](https://img.shields.io/badge/Status-Completed-brightgreen) `2021` | **Website for Traveling in COVID-19** | Web Development                         | Website development for safe traveling during the COVID-19 pandemic              | [Project Link](https://github.com/sungshin21/2021sw) |
 
 
 - Links for ![Status: In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) would changed to public, after the project finishes.
