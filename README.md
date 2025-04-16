@@ -50,7 +50,7 @@ Currently, I'm delving into **Generative AI (GA)**, **Large Language Models (LLM
 | ![Status: Completed](https://img.shields.io/badge/Status-Completed-brightgreen) `2022` | **School Tour Service using VR** | App Development                         | VR-based interactive school tour application                                     | [Project Link](https://github.com/happySungMeow/sungMeow) |
 
 
-- Links for ![Status: In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) would changed to public, after the project finishes.
+- Links for ![Status: In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) would be changed to public, after the project finishes.
 
 # 🏅 Awards
 - `2024` **BOAZ, Big Data Club : Big Data Hackathon** , 대상(1st place)
