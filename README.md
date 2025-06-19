@@ -73,7 +73,7 @@ Currently, I'm delving into **Generative AI (GA)**, **Large Language Models (LLM
 | **Infra**                            | Google Cloud Platform (GCP), Amazon Web Services (AWS), Kubernetes, Docker, Jenkins                                 |
 | **Server, Client (Web/App Deployment)** | Java, Spring, JPA, Python, Flask, Django, Flutter, HTML, CSS, JavaScript, Node.js, Express.js             |
 | **Data Collection & Security**       | Dataiku, Genian(EDR Platform)                                                                                      |
-| **Collaboration Tools**              | Jira, Slack, Notion, Microsoft Teams                                                                                |
+| **Collaboration Tools**              | Jira, Slack, Notion, Microsoft Teams, Figma                                                                                |
 
 <br>
 
