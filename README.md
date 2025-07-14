@@ -46,7 +46,7 @@ Currently, I'm delving into **Generative AI (GA)**, **Large Language Models (LLM
 | ![Status: Completed](https://img.shields.io/badge/Status-Completed-brightgreen) `2023` | **Food Ordering Kiosk** | LLM Fine-Tuning   | Development of interactive Food Ordering by transfer learning LLM (gemma-2b-it) | [Project Link](https://github.com/haeun161/LLM_FineTuning_Modeling) |
 | ![Status: Completed](https://img.shields.io/badge/Status-Completed-brightgreen) `2023` | **Movie Review Sentiment Analysis Model** | LLM Fine-Tuning                      | Sentiment analysis on movie reviews by Fine-Tuning LLM(KT-Midm-7B)               | [Project Link](https://huggingface.co/haeun161/lora-midm-7b-nsmc) |
 | ![Status: Completed](https://img.shields.io/badge/Status-Completed-brightgreen) `2022` | **History Gamification App** | App Development                         | Development of a gamified history learning platform using Unity                   | [Project Link](https://github.com/hanium22/hanium_project) |
-| ![Status: Completed](https://img.shields.io/badge/Status-Completed-brightgreen) `2022` | **School Tour Service using VR** | App Development                         | VR-based interactive school tour application                                     | [Project Link](https://github.com/happySungMeow/sungMeow) |
+| ![Status: Completed](https://img.shields.io/badge/Status-Completed-brightgreen) `2022` | **School Tour Service using VR** | App Development                         | VR-based interactive school tour application                                     | [Project Link](https://github.com/haeun161/sungMeow) |
 
 
 - Links for ![Status: In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) would be changed to public, after the project finishes.
