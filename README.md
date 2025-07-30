@@ -11,7 +11,7 @@
   - [Main Major] Computer Engineering / [Double Major] School of AI Convergence, AI
 
 ## 👀 Interest
-I'm passionate about **Computer Vision (CV)** and **Natural Language Processing (NLP)**. 
+I'm passionate about **Computer Vision (CV)** and **Natural Language Processing (NLP)**. <br>
 Currently, I'm delving into **Generative AI (GA)**, **Time-series Prediction**.
 
 ## 🔧 Internships
