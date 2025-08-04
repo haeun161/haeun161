@@ -14,21 +14,14 @@
 I'm passionate about **Computer Vision (CV)** and **Natural Language Processing (NLP)**. <br>
 Currently, I'm delving into **Generative AI (GA)**, **Time-series Prediction**.
 
+
 ## 🔧 Internships
-- `2025.01 ~ 2025.06` Undergraduate Researcher in 'Marine Hydrodynamics AI Lab', Sungshin Women's Univ.  
-  - **Project**: Machine Learning for Seakeeping Control in Waves
-  - **Commissioner**: Lloyd’s Register Foundation
-  - **Research Topic**: Time-Series Forecasting using Statistical Methods and Neural Networks
-  - Presented a paper on **Generalization and comparative evaluation of RNN-based deep learning models for real-time 6-DOF ship motion prediction** (EKC2025 – The 17th Europe–Korea Conference on Science and Technology, Vienna, Austria.)
 
-
-- `2022.11 ~ 2024.01` Undergraduate Researcher in 'Convergence Security Engineering Lab', Sungshin Women's Univ.
-  - **Research Topic**: Artificial Intelligence and Information Protection Convergence
-  - **Publications and Presentations**:
-    - Submitted a paper on **Lightweight Federated Learning** (Mobisec, International Conference)
-    - Presented a paper on **EDR Automation using Generative AI (VAE)** (Mobisec, International Conference)
-    - Submitted a paper to a **KCI-indexed Journal**
-    - Published patent, "Smart control apparatus and method," Korea, Patent, No. 10-2024-00599425 
+| Period | Affiliation | Project / Research Topic | Output |
+|--------|-------------|---------------------------|--------|
+| `2025.08 ~ ` | Statistical Artificial Intelligence Lab, KAIST | - TBD | - TBD |
+| `2025.01 ~ 2025.06` | Marine Hydrodynamics AI Lab, Sungshin Women's Univ. | - **Project**: Machine Learning for Seakeeping Control in Waves  <br> - **Commissioner**: Lloyd’s Register Foundation <br> - **Topic**: Time-Series Forecasting using Statistical Methods and Neural Networks | - Presented at **EKC2025**, Vienna  <br> - Paper: *Generalization and comparative evaluation of RNN-based deep learning models for real-time 6-DOF ship motion prediction* |
+| `2022.11 ~ 2024.01` | Convergence Security Engineering Lab, Sungshin Women's Univ. | - **Topic**: Artificial Intelligence and Information Protection Convergence | - Submitted: *Lightweight Federated Learning* (Mobisec, Int’l Conf.) <br> - Presented: *EDR Automation using Generative AI (VAE)* (Mobisec, Int’l Conf.) <br> - Submitted to **KCI-indexed journal** <br> - Patent: *Smart control apparatus and method*, Korea, No. 10-2024-00599425 |
 
 ## ⚡ ExtraCurricular Activity
 - `2024.07 ~ 2025.01`Team Member of the Data Analytics in BOAZ Base Session, Big Data Alliance Club 
