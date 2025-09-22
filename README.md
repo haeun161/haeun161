@@ -20,7 +20,7 @@ Currently, I'm delving into **Generative AI (GA)**, **Time-series Prediction**.
 | Period | Affiliation | Project / Research Topic | Output |
 |--------|-------------|---------------------------|--------|
 | `2025.08 ~ ` | Statistical Artificial Intelligence Lab, KAIST | - Generative Models(Diffusion, LLM) | - TBD |
-| `2025.01 ~ 2025.06` | Marine Hydrodynamics AI Lab, Sungshin Women's Univ. | - **Project**: Machine Learning for Seakeeping Control in Waves  <br> - **Commissioner**: Lloyd’s Register Foundation <br> - **Topic**: Time-Series Forecasting using Statistical Methods and Neural Networks | - Presented at **EKC2025**, Vienna  <br> - Paper: *Generalization and comparative evaluation of RNN-based deep learning models for real-time 6-DOF ship motion prediction* |
+| `2025.01 ~ 2025.06` | Marine Hydrodynamics AI Lab, Sungshin Women's Univ. | - **Project**: Machine Learning for Seakeeping Control in Waves  <br> - **Commissioner**: Lloyd’s Register Foundation <br> - **Topic**: Time-Series Forecasting using Statistical Methods and Neural Networks | - Presented at **EKC2025**, Vienna  <br> - Paper: *Generalization and comparative evaluation of RNN-based deep learning models for real-time 6-DOF ship motion prediction(https://doi.org/10.3390/jmse13091792)* |
 | `2022.11 ~ 2024.01` | Convergence Security Engineering Lab, Sungshin Women's Univ. | - **Topic**: Artificial Intelligence and Information Protection Convergence | - Submitted: *Lightweight Federated Learning* (Mobisec, Int’l Conf.) <br> - Presented: *EDR Automation using Generative AI (VAE)* (Mobisec, Int’l Conf.) <br> - Submitted to **KCI-indexed journal** <br> - Patent: *Smart control apparatus and method*, Korea, No. 10-2024-00599425 |
 
 ## ⚡ ExtraCurricular Activity
