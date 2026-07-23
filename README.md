@@ -72,9 +72,4 @@ Currently, I'm delving into **Generative AI (GA)**, **Time-series Prediction**.
 
 <br>
 
-# 🔗 Links
-
-- [Hugging Face](https://huggingface.co/haeun161)  
-- [Tech Blog](https://haeun161.tistory.com/)
-
 </div>
