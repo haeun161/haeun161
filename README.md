@@ -20,8 +20,8 @@ Currently, I'm delving into **Generative AI (GA)**.
 | Period | Affiliation | Project / Research Topic|
 |--------|-------------|---------------------------|
 | `2025.08 ~ 2026.09` | Statistical Artificial Intelligence Lab, KAIST | Generative Models(Diffusion, LLM) |
-| `2025.01 ~ 2025.06` | Marine Hydrodynamics AI Lab, Sungshin Women's Univ. |
-| `2022.11 ~ 2024.01` | Convergence Security Engineering Lab, Sungshin Women's Univ. | - **Topic**: Artificial Intelligence and Information Protection Convergence | 
+| `2025.01 ~ 2025.06` | Marine Hydrodynamics AI Lab, Sungshin Women's Univ. | Time-series |
+| `2022.11 ~ 2024.01` | Convergence Security Engineering Lab, Sungshin Women's Univ. | Artificial Intelligence and Information Protection Convergence | 
 
 ## ⚡ ExtraCurricular Activity
 - `2024.07 ~ 2025.01`Team Member of the Data Analytics in BOAZ Base Session, Big Data Alliance Club 
